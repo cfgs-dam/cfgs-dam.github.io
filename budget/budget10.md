@@ -1,0 +1,1 @@
+# Pressupost per un ordinador d'administració
