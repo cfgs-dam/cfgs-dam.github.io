@@ -1,0 +1,3 @@
+# Pressupost per un ordinador d'administració
+
+Volem posar una CPU, una placa base...
