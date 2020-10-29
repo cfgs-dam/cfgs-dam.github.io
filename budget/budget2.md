@@ -33,11 +33,3 @@
 |                                   |      Telvisió Curva      |                                              [Samsung TV 49MU6655 49"](https://www.samsung.com/es/support/model/UE49MU6655UXXC/)                                          |        |  599.99 |      Sí      |
 |    Total opcionalitat completa:   |                          |                                                                                                                                                                           |        | 1805.91 |              |
 |     Total sense opcionalitat:     |                          |                                                                                                                                                                           |        |  879.96 |              |
-
-P
-###### PUTA
-##### PUTA
-#### PUTA
-### PUTA
-## PUTA
-# PUTA
