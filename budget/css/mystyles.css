@@ -1,0 +1,18 @@
+
+img[alt="i7"],[alt="Torre"],[alt="placa base"],[alt="Memoria ram"],[alt="Ventilador cpu"],[alt="Disc dur HDD"],
+   [alt="Disc dur SSD"],[alt="Font"],[alt="GPU"]{
+     height:  150px;
+     border: solid 5px gray;
+    
+}
+table {
+  width: 100%;
+  border: solid 2px gray;
+  
+}
+h1 {
+  font-family:aria;
+  font-size: 40px;
+  
+}
+
