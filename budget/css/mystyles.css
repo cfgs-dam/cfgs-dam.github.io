@@ -1,4 +1,7 @@
-
+body{
+    background-color: rgba(210, 255, 7, 0.308);
+    font-family: cursive;
+}
 img[alt="i7"],[alt="Torre"],[alt="placa base"],[alt="Memoria ram"],[alt="Ventilador cpu"],[alt="Disc dur HDD"],
    [alt="Disc dur SSD"],[alt="Font"],[alt="GPU"]{
      height:  150px;
@@ -6,13 +9,12 @@ img[alt="i7"],[alt="Torre"],[alt="placa base"],[alt="Memoria ram"],[alt="Ventila
     
 }
 table {
-  width: 100%;
+  width: 80%;
   border: solid 2px gray;
-  
+  background-color: aliceblue;
 }
 h1 {
   font-family:aria;
   font-size: 40px;
   
 }
-

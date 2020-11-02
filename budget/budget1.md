@@ -19,10 +19,12 @@
 |![Torre](img/budget1/torre.jpg)                 |Torre [Tempest ATX CASE RGB Phantom USB 3.0][Torre]                  |  29,95€      |
 |![Font](img/budget1/fuente-alimenetacion.jpg)   |Font d'alimentacio [NOX Hummer Alpha 500W 80 Plus Bronce][Font]      |  47,00€      |
 |![GPU](img/budget1/GPU.jpg)                     |Targeta grafica [Zotac Gaming GTX 1660 SUPER Twin Fan 6GB GDDR6][GPU]| 239,89€      |
+|                                                |                                                                     |              |
+|        TOTAL                            :      |                                                                     | 1045,56€     |
 
 
-
-
+<br/>
+<br/>
 
 
 
