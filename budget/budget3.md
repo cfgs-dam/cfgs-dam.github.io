@@ -89,19 +89,25 @@ Memòria RAM de marca Kingston
 </ul>
 
 ### 2.5 HDD
+Disc dur Marca Seagate
 <ul>
+    <li>BarraCuda</li>
     <li>Capacidad de disco duro: 1000 GB</li>
     <li>Tamany de disco: 3.5"</li>
 </ul>
 
 ### 2.6 SSD 
+Disc Dur Sòlid marca Kingston
 <ul>
+    <li>A400</li>
     <li>Forma del disc: 2.5"</li>
     <li>Disco de estado sólido, capacidad: 240 GB</li>
 </ul>
 
 ### 2.7 Caixa
+Caixa marca Tempest
 <ul>
+    <li>ATX case RGB Phantom</li>
     <li>Fuente de alimentació: ATX estándar Max 160mm</li>
     <li>Placa base: Placas base ATX, Micro-ATX e ITX</li>
     <li>Bahias PCI: 7</li>
@@ -110,13 +116,16 @@ Memòria RAM de marca Kingston
 </ul>
 
 ### 2.8 Font d'alimentació
+Font d'alimentació marca EVGA
 <ul>
+    <li>W1</li>
+    <li>Potencia de sortida 500W @ + 50C</li>
     <li>1 x 24 PINS ATX</li>
     <li>Dimensions 85mm (H) x 150mm (W) x 140mm (L)</li>
-    <li>Potencia de sortida 500W @ + 50C</li>
 </ul>
 
 ### 2.9 Targeta Gràfica
+Targeta Gràfica marca ASUS
 <ul>
     <li>NVIDIA</li>
     <li>GeForce GT 710</li>
@@ -126,7 +135,9 @@ Memòria RAM de marca Kingston
 </ul>
 
 ### 2.10 Monitor
+Monitor marca ACER
 <ul>
+    <li>V226HQL</li>
     <li>Resolució de la pantalla: 1920 x 1080 píxels</li>
     <li>21.5 Polzades</li>
     <li>Temps de resposta: 5 ms</li>
@@ -136,7 +147,9 @@ Memòria RAM de marca Kingston
 </ul>
 
 ### 2.11 Teclat i ratolí
+Teclat i ratolí marca tempest
 <ul>
+    <li>Combo 3000 RGB</li>
     <li>Sensor del ratolí ajustable a diferents DPI des de 800 a 2400.</li>
     <li>Mesures: 478x214x41mm.</li>
     <li>Iluminació en 4 colors.</li> 
@@ -146,6 +159,15 @@ Memòria RAM de marca Kingston
     
 ## 3. Justificació del pressupost
 
+El processador que hem agafat per l'equip és un i3 de 9na generació que va de sobres per al blogger.
+La placa base que hem escollit per l'usuari és aquesta gigabyte que si vol més potencia li podrà afegir components nous i més potents, però de mentres amb els components que té aquest equip ja va bé.
+El ventilador l'hem afegit perquè la CPU no ve amb el dissipador i aquesta és la que entrava el pressupost del client.
+La RAM que hem agafat és de 8 GB que això és suficient per al client per tenir moltes pestanyes obertes.
+L’HDD d'1 TB és per a que li sobri la memòria.
+El SDD per instal·lar el sistema operatiu i així va més ràpid.
+La caixa és una de les caixes més barates que hi ha i tots els components hi caben de sobres.
+La font d'alimentació és una mica més  potent de la recomanada per l’equip i així sobra més que falta
+La gràfica no feia falta però és millor que la integrada, perquè així el noi anirà volant amb l’equip.
 
 
 
