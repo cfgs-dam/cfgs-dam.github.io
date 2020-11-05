@@ -1,6 +1,6 @@
 # **Pressupost 1 : Ordinador para un arquitecte**
 
-<link rel="stylesheet" href="css/stylesBudget1.css">
+<link rel="stylesheet" href="css/stylesBudget1.css" />
 
 
 ## **1. Tria i pressupost dels elements**
@@ -29,6 +29,7 @@
 
 
 ### **1.2 Periferics**
+
 <br/>
 
 
@@ -43,8 +44,11 @@
 #### Teclat + ratoli [Logitech MK220][teclat ratoli] 20,90 €
 
 ![Teclat + ratoli](img/budget1/teclatRaton.jpg)
+
 <br/>
+
 ### **TOTAL DELS PERIFERICS : 520.89 €** 
+
 <br/> 
 <br/>
 
