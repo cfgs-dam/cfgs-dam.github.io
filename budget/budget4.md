@@ -8,27 +8,29 @@
 |1|<img src="img/budget4/Processador.jpg">|[Processador](https://www.pccomponentes.com/amd-ryzen-5-3400g-37ghz-box)| 139,90€|
 |1|<img src="img/budget4/RAM.jpg">|[RAM](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-3000mhz-pc-24000-2x8gb-cl15)| 79,66€|
 |1|<img src="img/budget4/discdur.png">|[Disc dur](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3)| 33,95€| 
-|1|<img src="img/budget4/SSD.png">|[SSD](https://www.pccomponentes.com/kingston-a400-ssd-240gb)| 33,95€|
+|1|<img src="img/budget4/SSD1.jpg">|[SSD](https://www.pccomponentes.com/kingston-a400-ssd-240gb)| 33,95€|
 |1|<img src="img/budget4/Alimentacio.jpg">|[Font d'alimentació](https://www.pccomponentes.com/corsair-cv450-cv-series-450w-80-plus-bronze)| 47,90€|
 |1|<img src="img/budget4/caixa.jpg">|[Caixa](https://www.pccomponentes.com/nox-hummer-zx-usb-30) | 45,50€ | 
 |1|<img src="img/budget4/tso.jpg">|[Targeta de so](https://www.amazon.es/Focusrite-AMS-SCARLETT-2I2-3G-Scarlett-2i2-3rd/dp/B07QR73T66)| 142,00€|
-|Total:|||595,88€|
+|Total:|||595,85€|
 ---
 
 ### 1.2Perifèrics
 |Unitats|Imatge| Element          | Preu |
 |:----:|:-----:|:----------------:|:----:|
 |2|<img src="img/budget4/micro.jpg">|[Micròfon](https://www.thomann.de/es/rode_nt1a_complete_vocal_recording.htm )|175,00€ |
-|1|<img src="img/budget4/pantalla.jpg">|[Pantalla]([img/](https://www.pccomponentes.com/philips-243v7qdsb-238-led-ips-fullhd))| 99,99€ |
-|1|<img src="img/budget4/teclat.jpg">|[Teclat](https://www.pccomponentes.com/msi-vigor-gk30-teclado-gaming-rgb)|59,99€|
+|2|<img src="img/budget4/auriculars1.jpg">|[Auriculars](https://es-fusionelectronix.glopalstore.com/skullcandy-grind-bluetooth-headphones-in-black-chrome/?sku=583129)|47,77€|
+|1|<img src="img/budget4/pantalla.jpg">|[Pantalla](https://www.pccomponentes.com/philips-243v7qdsb-238-led-ips-fullhd)| 99,99€ |
+|1|<img src="img/budget4/teclat2.jpg">|[Teclat](https://www.pccomponentes.com/msi-vigor-gk30-teclado-gaming-rgb)|59,99€|
 |1|<img src="img/budget4/ratoli.jpg">|[Ratolí](https://www.pccomponentes.com/logitech-g203-lightsync-2nd-gen-raton-gaming-8000dpi-rgb-negro)| 28,99€ |
-|Total:|||363,99€|
+|Total:|||634,51€|
 
 <p>
 
 ## 2. Descripció de la tria dels elements
 
 ### 2.1 Placa base
+---
 Placa base de la marca Gigabyte model b450 ds3h amb les característiques tècniques següents:
 - Socket AM4
 - Chipset AMD B450
@@ -112,69 +114,119 @@ Teclat marca MSI model Vigor GK30 amb les característiques tècniques següents
 - Idioma del teclat: Espanyol
 - Tecles d'accés directe: Si
 
-
-
-
-
+### 2.14 Auriculars
+Auriculars marca Skullcandy model grind  amb les característiques tècniques següents:
+- Connexió Bluetooth
+- Pes 168 g
+- Dimensions 17.8 x  9.1 x 20.3 cm
 
 
 ## 3. Justificació del pressupost
-<font size="5" face="Helvetica" >PLACA BASE | <img src="https://thumb.pccomponentes.com/w-530-530/articles/16/168112/a2.jpg">
-
+<font size="5" face="Helvetica" >PLACA BASE | 
+<p align="center">
+<img src="img/budget4/placabase2.jpg" width="250" height="250">
+</p >
 <p><font size="3">
-    Hem decidit comprar aquesta placa base deugut al preu de la mateixa i com no necessitem una targeta grafica no feie falta una placa base millor.
-<p><p>
-<p>
+Hem decidit comprar aquesta placa base deugut al preu de la mateixa, al no haver-ne de fer un ús exhaustiu hem pensat que aquesta cobria perfectament les nostres necessitats.
 
-<font size="5" face="Helvetica" >
-PROCESSADOR |
-<img src="https://i.pcmag.com/imagery/reviews/07znYMniV5dM5RrnHpWQepL-11..1569632436.jpg">
-<font size="3">
-    La nostra decisio a l'hora de escollir la cpu es va enfocar principalment en la calitat/preu del producte, també la decisió de no disposar de una tarjeta grafica va fer que optesim per aquet debut a que nomes la serie "G" dels procesadors ryzen tenen grafica integrada. Vam escollir el model ryzen 5 3400G perque dispose de la millor tarjeta grafica integrada que hi ha actualment en el mercat.
-<p>
-
-<font size="5" face="Helvetica" >
-RAM | <p><img src="https://thumb.pccomponentes.com/w-530-530/articles/23/233941/hyperx-fury-ddr4-4-kit-of-2.jpg">
-    Hem decidit escollir aquesta memòria ram degut a que com que es un  dels models de 16Gb més barats, és d'una marca tant reconeguda com Kingston, i com que es una de les opcions més recomenades per la gent, fos una de les millors opcions a escollir.
 
 <p><font size="5" face="Helvetica" >
-DISC DUR | <img src="https://thumb.pccomponentes.com/w-530-530/articles/11/111412/1113.jpg">
+PROCESSADOR  
+<p align="center">
+<img src="img/budget4/processador2.jpg" width="300" height="200">
+</p>
 <p><font size="3">
-Ens hem decidit per aquest disc dur per la calitat preu que disposa, degut al preu que té i la capacitat d'emmagatzematge que disposa, es la millor opció a escollir entre els diferents discs durs de les mateixes prestacions e.
+  A l'hora de escollir la CPU ens vam enfocar principalment en la relació calitat/preu del producte, també la decisió de no disposar d'una targeta gràfica va fer que optessim per aquesta degut a que nomes la serie "G" dels procesadors Ryzen tenen gràfica integrada. Vam escollir el model Ryzen 5 3400G perque disposa de la millor targeta gràfica integrada que hi ha actualment al mercat. Tamber dir que aquest processador és suficientment potent per a poder realitzar un podcast sense tenir cap tipus de problema.
+
+
+<p><font size="5" face="Helvetica" >
+RAM  
+<p align="center">
+<img src="img/budget4/RAM2.jpg" width="250" height="250">
+<p><font size="3">
+  Hem escollit una memòria RAM de 16GB, aquesta quantitat és suficient com per a que l'ordinador no tingui cap problema a l'hora d'utilitzar més d'un software a la vegada. La memòria conta amb dos mòduls de 8GB cadascún y de 3000Mhz amb una latència de cl16. Ser d'una marca tant reconeguda com Kingston, fa que sigui una de les més recomanades, fet que ha propiciat que ens decanstèssim per aquesta.
+
+<p><font size="5" face="Helvetica" >
+DISC DUR 
+<p align="center">
+<img src="img/budget4/discdur2.jpg" width="250" height="250">
+</p>
+<p><font size="3">
+Hem escollit aquest disc dur per la relació calitat/preu de la qual disposa. La seva capacitat d'emmagatzematge la converteix amb la millor opció a escollir entre els diferents discs durs de les mateixes prestacions.
     
     
 <p><font size="5" face="Helvetica">
-SSD | <img src="https://thumb.pccomponentes.com/w-530-530/articles/12/128272/1282722.jpg">
+SSD 
+<p align="center">
+<img src="img/budget4/SSD.png" width="250" height="200">
+</p>
 <p><font size="3">
-
+El disc dur SSD és algo que es necessari per a la velocitat a l'hora de carregar tant el S.O. com els programes. 
+La diferència de velocitat entre un disc dur SSD y un HDD és molt significativa, hem escollit un SSD de 240GB, ja que hi ha suficient espai com per a que el sistema operatiu y els altres softwares estiguin emmagatzemats dins. Hem decidit escollir aquesta memoria SSD perquè dels models de 240Gb era la que tenia el preu més competitiu i és una de les marques més recomanades.
     
 
-<font size="5" face="Helvetica">
-FONT D'ALIMENTACIÓ | <img src="https://thumb.pccomponentes.com/w-530-530/articles/25/259732/corsair-cv450-cv-series-450w-80-plus-bronze-mejor-precio.jpg">
+<p><font size="5" face="Helvetica">
+FONT D'ALIMENTACIÓ 
+<p align="center">
+<img src="img/budget4/alimentacio2.jpg" width="250" height="250">
+</p>
+<p><font size="3">
+Hem decidit escollir aquesta font d'alimentació perquè al ser d'una marca tant confiable com ho es Corsair i, donat que l'equip no necessita una cantitat de Watts molt elevada, la converteix en una gran opció a escollir per aquest equip.
 
-<font size="5" face="Helvetica">
-CAIXA | 
-<img src="https://thumb.pccomponentes.com/w-530-530/articles/8/87031/nox-hummer-zx-usb-3-0-4.jpg">
+<p><font size="5" face="Helvetica">
+CAIXA 
+<p align="center">
+<img src="img/budget4/caixa2.jpg" width="250" height="250">
+</p>
+<p><font size="3">
+Amb la caixa no ens hem complicat masa, es una caixa normal amb un espai bastant gran, per si en un futur es volgués ficar una targeta gràfica, ficar més discs durs o un lector de cd. Realment no es tan important l'espai degut a que l'ordinador no disposa de targeta gràfica ni de refrigeració líquida, per tant, no necessita molt espai. Aquesta caixa ens ha convençut per el seu preu. 
 
+<p><font size="5<p>" face="Helvetica">
+TARGETA DE SO 
+<p align="center">
+<img src= "img/budget4/tso2.jpg" width="250" height="90">
+</p>
+<p><font size="3">
+Hem decidit agafar aquesta targeta de so perquè és un element molt important per a un podcaster. A més és una marca molt recomanada, i el preu és molt assequible per la qualitat de la targeta.
 
+<p><font size="5" face="Helvetica">
+MICRÒFON  
+<p align="center">
+<img src= "img/budget4/micro2.jpg" width="250" height="250">
+</p>
+<p><font size="3">
+Ens vam decantar per aquest micròfon per vàries raons.
+La primera és que, per dur a terme la tasca de podcaster és essencial, a nivell perifèrics, contar amb un bon micròfon.
+Hem decidit escollir aquest micròfon perquè és un dels millors del mercat al seu rang de preu, també perquè al ser un equip pensat per a un podcast, el més important és la veu de l'entrevistador i l'entrevistat i, al ser un micròfon Cardioide, capta molt bé les veus que estiguin davant del micròfon.
 
-<font size="5" face="Helvetica">
-TARGETA DE SO |
-<img src= "https://images-na.ssl-images-amazon.com/images/I/71p59Gu0snL._AC_SL1500_.jpg">
+<p><font size="5" face="Helvetica">
+AURICULARS 
+<p align="center"> 
+<img src= "img/budget4/Auriculars.jpg" width="220" height="300">
+</p>
+<p><font size="3">
+Ens hem decantat per aquests auriculars perquè per la calitat de so que ofereixen i la insonorització es més que suficient pel seu preu.
 
-<font size="5" face="Helvetica">
-MICRÒFON | 
-<img src= "https://images.static-thomann.de/pics/bdb/235937/11383929_800.jpg">
+<p><font size="5" face="Helvetica">
+PANTALLA 
+<p align="center">
+<img src= "img/budget4/pantalla2.jpg" width="250" height="250">
+</p>
+<p><font size="3">
+Hem decidit escollir aquesta pantalla perquè no necessitem una gran qualitat i el preu és bastant assequible, a més a més la marca Philips la converteix en un producte de confiança.
 
-<font size="5" face="Helvetica">
-PANTALLA |
-<img src= "https://thumb.pccomponentes.com/w-530-530/articles/16/168695/2.jpg">
+<p><font size="5" face="Helvetica">
+TECLAT 
+<p align="center">
+<img src= "img/budget4/teclat.jpg" width="250" height="250">
+</p>
+<p><font size="3">
+Hem escollit aquest teclat perquè voliem un teclat que ens donés de bona calitat i a un preu que no passés el pressupost.
 
-
-
-
-
-
-
-
-  
+<p><font size="5" face="Helvetica">
+RATOLÍ 
+<p align="center">
+<img src= "img/budget4/ratoli2.jpg" width="250" height="250">
+</p>
+<p><font size="3">
+Per al ratolí hem decidit aquest perquè no és un element massa important per a un podcaster i aquest model té una relació qualitat/preu molt bona.
