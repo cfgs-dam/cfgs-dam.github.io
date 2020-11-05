@@ -33,7 +33,7 @@
 | ![Monitor](img/budget3/Monitor.jpg) | [Monitor:Acer V226HQL 21.5" LED](https://www.pccomponentes.com/acer-v226hql-215-led) | 76,99€ |       |
 | ![Teclat i Ratolí](img/budget3/Teclat%20i%20ratoli.jpg) | [Teclat/Ratolí:Tempest Combo 3000 RGB Teclado + Ratón Gaming](https://www.pccomponentes.com/tempest-combo-3000-rgb-teclado-raton-gaming) | 24,99€ |       |
 |       |         |  El preu dels components pot variar, ja que els components van canviant de preu. Aquest pressupost ha estat creat el 27/10/2020         | Tolal: 101,98 € |
-#
+
 ## 2. Descripció de les característiques  dels elements
 ### 2.1 Placa Base 
 Placa Base de marca Gigabyte 
