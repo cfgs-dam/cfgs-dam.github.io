@@ -19,16 +19,10 @@
 | ![DiscDur](img/budget3/Disc%20dur.jpg) | [Discdur:Seagate BarraCuda 3.5" 1TB SATA3](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3) | 33,95€  |
 | ![Discdur2](img/budget3/Disc%20dur%202.jpg) | [DiscDur2:Kingston A400 SSD 240GB](https://www.pccomponentes.com/kingston-a400-ssd-240gb) | 32,48€  |
 | ![Caixa](img/budget3/Caixa.jpg) | [Caixa:Tempest ATX CASE RGB Phantom USB 3.0](https://www.pccomponentes.com/tempest-atx-case-rgb-phantom-usb-30) | 29,95€  |
-| ![Fontalimentacio](img/budget3/Font%20alimentacio.jpg) | [FontAlimentacio:EVGA W1 500W 80 Plus](https://www.pccomponentes.com/evga-w1-500w-80-plus) | 44,99€  |
+| ![Fontalimentació](img/budget3/Font%20alimentacio.jpg) | [FontAlimentació:EVGA W1 500W 80 Plus](https://www.pccomponentes.com/evga-w1-500w-80-plus) | 44,99€  |
 | ![Gràfica](img/budget3/Grafica.jpg) | [Gràfica:Asus GeForce GT 710 1GB GDDR5](https://www.pccomponentes.com/asus-geforce-gt-710-1gb-gddr5) | 42,53€  |
 |        |           |          El preu del PC pot variar, ja que els components van canviant de preu. Aquest pressupost ha estat creat el 27/10/2020 |  Total: 422,65€    |
 
-<style>
-    img{
-        width:128px;
-    }
-
-</style>
 
 
 ### 1.2 Perifèrics
@@ -37,8 +31,8 @@
 | Imatge | Element | Preu | Total |
 |--------|---------|------|-------|
 | ![Monitor](img/budget3/Monitor.jpg) | [Monitor:Acer V226HQL 21.5" LED](https://www.pccomponentes.com/acer-v226hql-215-led) | 76,99€ |       |
-| ![Teclat i Ratoli](img/budget3/Teclat%20i%20ratoli.jpg) | [Tecla/Ratolí:Tempest Combo 3000 RGB Teclado + Ratón Gaming](https://www.pccomponentes.com/tempest-combo-3000-rgb-teclado-raton-gaming) | 24,99€ |       |
-|       |         |  El preu dels components poden variar, ja que els components van canviant de preu. Aquest pressupost ha estat creat el 27/10/2020         | Tolal: 101,98 € |
+| ![Teclat i Ratolí](img/budget3/Teclat%20i%20ratoli.jpg) | [Teclat/Ratolí:Tempest Combo 3000 RGB Teclado + Ratón Gaming](https://www.pccomponentes.com/tempest-combo-3000-rgb-teclado-raton-gaming) | 24,99€ |       |
+|       |         |  El preu dels components pot variar, ja que els components van canviant de preu. Aquest pressupost ha estat creat el 27/10/2020         | Tolal: 101,98 € |
 #
 ## 2. Descripció de les característiques  dels elements
 ### 2.1 Placa Base 
@@ -130,7 +124,7 @@ Targeta Gràfica marca ASUS
     <li>NVIDIA</li>
     <li>GeForce GT 710</li>
     <li>CUDA: Y</li>
-    <li>Memoria de l'adaptador: 1GB</li>
+    <li>Memòria de l'adaptador: 1GB</li>
     <li>GDDR5</li>
 </ul>
 
