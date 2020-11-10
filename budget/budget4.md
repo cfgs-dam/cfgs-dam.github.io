@@ -4,10 +4,10 @@
 ### 1.1 Elements de l'ordinador
 |Unitats|Imatge| Element          | Preu |
 |:----:|:-----:|:----------------:|:----:| 
-|1|<img src="img/budget4/Placa_base.png">|[Placa base](https://www.pccomponentes.com/gigabyte-b450m-ds3h) |72,99€|
-|1|<img src="img/budget4/Processador.jpg">|[Processador](https://www.pccomponentes.com/amd-ryzen-5-3400g-37ghz-box)| 139,90€|
+|1|<img src="img/budget4/Placa_base.jpg">|[Placa base](https://www.pccomponentes.com/gigabyte-b450m-ds3h) |72,99€|
+|1|<img src="img/budget4/processador.jpg">|[Processador](https://www.pccomponentes.com/amd-ryzen-5-3400g-37ghz-box)| 139,90€|
 |1|<img src="img/budget4/RAM.jpg">|[RAM](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-3000mhz-pc-24000-2x8gb-cl15)| 79,66€|
-|1|<img src="img/budget4/discdur.png">|[Disc dur](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3)| 33,95€| 
+|1|<img src="img/budget4/discdur.jpg">|[Disc dur](https://www.pccomponentes.com/seagate-barracuda-35-1tb-sata3)| 33,95€| 
 |1|<img src="img/budget4/SSD1.jpg">|[SSD](https://www.pccomponentes.com/kingston-a400-ssd-240gb)| 33,95€|
 |1|<img src="img/budget4/Alimentacio.jpg">|[Font d'alimentació](https://www.pccomponentes.com/corsair-cv450-cv-series-450w-80-plus-bronze)| 47,90€|
 |1|<img src="img/budget4/caixa.jpg">|[Caixa](https://www.pccomponentes.com/nox-hummer-zx-usb-30) | 45,50€ | 
@@ -158,7 +158,7 @@ Hem escollit aquest disc dur per la relació calitat/preu de la qual disposa. La
 <p><font size="5" face="Helvetica">
 SSD 
 <p align="center">
-<img src="img/budget4/SSD.png" width="250" height="200">
+<img src="img/budget4/SSD.jpg" width="250" height="200">
 </p>
 <p><font size="3">
 El disc dur SSD és algo que es necessari per a la velocitat a l'hora de carregar tant el S.O. com els programes. 
