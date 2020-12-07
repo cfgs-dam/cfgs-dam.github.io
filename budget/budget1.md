@@ -32,7 +32,7 @@
 <br/>
 
 
- #### Pantalla [Philips IPS de 24][pantalla] 99,00 €
+#### Pantalla [Philips IPS de 24][pantalla] 99,00 €
 
 ![pantalla philips IPS 24](img/budget1/pantalla.jpg)
 
