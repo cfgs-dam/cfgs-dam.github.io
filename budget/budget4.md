@@ -2,6 +2,7 @@
 
 ## 1.Tria i pressupost dels elements
 ### 1.1 Elements de l'ordinador
+
 |Unitats|Imatge| Element          | Preu |
 |:----:|:-----:|:----------------:|:----:| 
 |1|<img src="img/budget4/Placa_base.jpg">|[Placa base](https://www.pccomponentes.com/gigabyte-b450m-ds3h) |72,99€|
@@ -16,6 +17,7 @@
 ---
 
 ### 1.2Perifèrics
+
 |Unitats|Imatge| Element          | Preu |
 |:----:|:-----:|:----------------:|:----:|
 |2|<img src="img/budget4/micro.jpg">|[Micròfon](https://www.thomann.de/es/rode_nt1a_complete_vocal_recording.htm )|175,00€ |
