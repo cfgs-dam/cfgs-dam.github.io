@@ -1,2 +1,0 @@
-# Pressupost número 25
-
