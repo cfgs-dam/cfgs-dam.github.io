@@ -3,8 +3,6 @@
 ## 1.Tria i pressupost dels elements
 ### 1.1 Elements de l'ordinador
 
-PROVA
-
 |Unitats|Imatge| Element          | Preu |
 |:----:|:-----:|:----------------:|:----:| 
 |1|<img src="img/budget4/Placa_base.jpg">|[Placa base](https://www.pccomponentes.com/gigabyte-b450m-ds3h) |72,99€|
@@ -29,8 +27,6 @@ PROVA
 |1|<img src="img/budget4/teclat2.jpg">|[Teclat](https://www.pccomponentes.com/msi-vigor-gk30-teclado-gaming-rgb)|59,99€|
 |1|<img src="img/budget4/ratoli.jpg">|[Ratolí](https://www.pccomponentes.com/logitech-g203-lightsync-2nd-gen-raton-gaming-8000dpi-rgb-negro)| 28,99€ |
 |Total:|||634,51€|
-
-<p>
 
 ## 2. Descripció de la tria dels elements
 
