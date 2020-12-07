@@ -3,6 +3,8 @@
 ## 1.Tria i pressupost dels elements
 ### 1.1 Elements de l'ordinador
 
+PROVA
+
 |Unitats|Imatge| Element          | Preu |
 |:----:|:-----:|:----------------:|:----:| 
 |1|<img src="img/budget4/Placa_base.jpg">|[Placa base](https://www.pccomponentes.com/gigabyte-b450m-ds3h) |72,99€|
@@ -14,6 +16,7 @@
 |1|<img src="img/budget4/caixa.jpg">|[Caixa](https://www.pccomponentes.com/nox-hummer-zx-usb-30) | 45,50€ | 
 |1|<img src="img/budget4/tso.jpg">|[Targeta de so](https://www.amazon.es/Focusrite-AMS-SCARLETT-2I2-3G-Scarlett-2i2-3rd/dp/B07QR73T66)| 142,00€|
 |Total:|||595,85€|
+
 ---
 
 ### 1.2Perifèrics
