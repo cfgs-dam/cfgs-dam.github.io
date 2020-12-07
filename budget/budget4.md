@@ -1,6 +1,21 @@
 # Pressupost 4. Ordinador per un podcaster.
 
+---
+
+## **Enunciat**
+
+La configuració de l'ordinador de sobretaula d'un podcaster ha de complir les següents especificacions:
+- Ha de permetre l’execució dels programes Adobe Audition i Audicity.
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 300€ i 600€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients per un potcaster, ajustant el preu al màxim.
+- El sistema operatiu que cregueu més adient.
+
+---
+
 ## 1.Tria i pressupost dels elements
+
 ### 1.1 Elements de l'ordinador
 
 |Unitats|Imatge| Element          | Preu |
