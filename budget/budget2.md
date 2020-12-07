@@ -2,6 +2,27 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
 
+---
+
+## **Enunciat**
+
+La configuració de l'ordinador de sobretaula d'un streamer ha de complir les següents especificacions:
+- Ha de permetre jugar a jocs d’alt rendiment del tipus
+  * Resident Evil 3
+  * Call of Duty: Warzone
+  * Assassin’s Creed Valhalla
+  * Shadow of the Tomb Raider
+- Cal que afegiu una capturadora de vídeo per tal de poder fer els vídeos dels jocs de consola.
+- Ha de permetre l’execució dels programes ObsStudio i Discord (tot alhora conjuntament amb el joc o el vídeo capturat des de consola).
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 1200€ i 1500€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients per un streamer, ajustant el preu al màxim.
+- Dues pantalles
+- El sistema operatiu que cregueu més adient.
+
+---
+
 ## COMPONENTS DE LA TORRE
 
 <br/>
