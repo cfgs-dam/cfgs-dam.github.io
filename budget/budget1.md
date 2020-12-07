@@ -2,6 +2,19 @@
 
 <link rel="stylesheet" href="css/stylesBudget1.css" />
 
+<div class="statement">
+## Enunciat
+
+La configuració de l'ordinador de sobretaula d'un arquitecte ha de complir les següents especificacions:
+- Ha de poder executar els programes de disseny Autcad, Autodesk Revit, Archicad, Rhinoceros 3D, 3DS MAX i Unreal Engine.
+- La càrrega del sistema operatiu, així com també la dels diferents programes, ha de ser ràpida.
+- Cal que tingui un disc dur d’alta capacitat d’emmagatzemament.
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 900€ i 1300€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim.
+- El sistema operatiu que cregueu més adient.
+</div>
 
 ## **1. Tria i pressupost dels elements**
 
