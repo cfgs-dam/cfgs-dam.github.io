@@ -9,13 +9,13 @@ img[alt="i7"],[alt="Torre"],[alt="placa base"],[alt="Memoria ram"],[alt="Ventila
      height:  150px;
      border: solid 5px gray;
 }
-table {
+/*table {
   width: 80%;
   border: solid 5px gray;
   border-radius: 10px;
   background-color: aliceblue;
   padding: 35px;
-}
+}*/
 h1 {
   border: solid  rgb(7, 222, 250);
   border-width: 7px;
