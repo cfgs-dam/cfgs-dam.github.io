@@ -4,7 +4,7 @@
 
 ## COMPONENTS DE LA TORRE
 
-Què tal?
+Prova
 
 |       |         Nom         |                                     Producte                                     |                         Imatge                        |   Preu   |                            Especificacions                           |
 |:-----:|:-------------------:|:--------------------------------------------------------------------------------:|:-----------------------------------------------------:|:--------:|:--------------------------------------------------------------------:|
@@ -19,6 +19,7 @@ Què tal?
 |       |  Disipador de Calor |                     [Corsair A500 Ventilador CPU](t.ly/yAnz)                     | ![Disipador de Calor](img/budget2/disipadorcalor.png) |  99,99€  |           Soroll: 36dB<br>Velocitat: 2400RPM<br>Pes: 1,46kg          |
 |       |     Capturadora     |                             [ElGato HD60S](t.ly/seRY)                            |      ![Capturadora](img/budget2/caputuradora.png)     |  189,99€ |    Resolució: 1080p60<br>Interficie: USB 3.0<br>Velocitat: 60 Mbps   |
 | Total |                     |                                                                                  |                                                       | 1495,56€ |                                                                      |
+
 <br/>
 
 # Perque hem escollit aquest components?
