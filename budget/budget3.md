@@ -6,7 +6,23 @@
 
 </style>
 
+---
+
+## **Enunciat**
+
+La configuració de l'ordinador de sobretaula d'un blogger ha de complir les següents especificacions:
+- Cal que pugui executar els programes ofimàtics clàssics (editor de text, full de càlcul...).
+- També ha de tenir la capacitat per executar el navegador amb moltes pestanyes (per tal que l’usuari pugui realitzar totes aquelles consultes que necessiti).
+- Ha de poder executar el programa d’edició de fotografia Photoshop, o la versió lliure i gratuïta Gimp
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 300€ i 500€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu tots aquells perifèrics que cregueu convenients i el sistema operatiu més escaient, ajustant el preu al màxim.
+
+---
+
+
 ## 1. Tria i pressupost dels elements
+
 ### 1.1 Elements de l'ordinador
 
 
@@ -71,7 +87,8 @@ Processador marca Intel
 Ventilador de marca Cooler Master
 <ul>
     <li>Sòcal de CPU Intel® LGA 2066 / 2011-3 / 2011/1151/1150/1155/1156/1366/775</li>
-    <li>Dimensió 102 x 83,4 x 136 mm</li></ul>
+    <li>Dimensió 102 x 83,4 x 136 mm</li>
+</ul>
 
 ### 2.4 Memòria RAM
 Memòria RAM de marca Kingston
