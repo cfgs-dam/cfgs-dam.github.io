@@ -4,7 +4,8 @@
 
 ## COMPONENTS DE LA TORRE
 
-Prova
+<br/>
+<br/>
 
 |       |         Nom         |                                     Producte                                     |                         Imatge                        |   Preu   |                            Especificacions                           |
 |:-----:|:-------------------:|:--------------------------------------------------------------------------------:|:-----------------------------------------------------:|:--------:|:--------------------------------------------------------------------:|
@@ -27,10 +28,10 @@ Creiem que un Streamer necessita un ordinador prou potent per a suportar l'strea
 
 Com es un Streamer, també ha de tenir el seu propi FLOW, per això, creiem que una caixa per a la torre amb el vidre templat, li donarà aquest toc tan COOL que necessita, i per descomptat fins dalt de leds. També ens farà falta una targeta gràfica potent perquè pugui jugar amb tranquil·litat els jocs a la millor qualitat possible, i, tenint en compte el nostre pressupost, hem agafat aquesta. La font d'alimentació elegida a estat aquesta per raons òbvies, bàsicament necessitem suportar tots els elements anteriors. I per últim necessitarem un dissipador de calor que refrigeri tots els nostres components, com no disposem d'un gran pressupost, hem decidit conformar-nos amb un ventilador, d'haver estat el contrari, segurament hauríem tirat, de refrigeració liquida però aquesta te un gran cost de manteniment. A més a més, necessitarem una capturadora per gravar tots els jocs de consola, i creiem que la del ElGato és molt bona.
 
-
 <br/>
 
 # PERIFERICS
+
 <br/>
 
 |                                   |            Nom           |                                    Producte                                      |                       Imatge                    |   Preu  | Opcionalitat |
@@ -45,6 +46,7 @@ Com es un Streamer, també ha de tenir el seu propi FLOW, per això, creiem que 
 |                                   |      Telvisió Curva      |                [Samsung TV 49MU6655 49"](https://cutt.ly/7gSa2sA)                |  ![Telvisió Curva](img/budget2/televisio.png)   |  599.99 |      Sí      |
 |    Total opcionalitat completa:   |                          |                                                                                  |                                                 | 1805.91 |              |
 |     Total sense opcionalitat:     |                          |                                                                                  |                                                 |  879.96 |              |
+
 <br/>
 
 # Perque hem escollit aquest periferics?
