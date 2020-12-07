@@ -3,7 +3,8 @@
 <link rel="stylesheet" href="css/stylesBudget1.css" />
 
 <div class="statement">
-## Enunciat
+ 
+## **Enunciat**
 
 La configuració de l'ordinador de sobretaula d'un arquitecte ha de complir les següents especificacions:
 - Ha de poder executar els programes de disseny Autcad, Autodesk Revit, Archicad, Rhinoceros 3D, 3DS MAX i Unreal Engine.
@@ -14,6 +15,7 @@ La configuració de l'ordinador de sobretaula d'un arquitecte ha de complir les 
 Addicionalment al pressupost de la torre, afegiu els següents elements:
 - Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim.
 - El sistema operatiu que cregueu més adient.
+
 </div>
 
 ## **1. Tria i pressupost dels elements**
