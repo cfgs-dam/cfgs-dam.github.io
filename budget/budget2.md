@@ -3,9 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
 
 ## COMPONENTS DE LA TORRE
-HOLA!!
 
-<br/>
+Què tal?
 
 |       |         Nom         |                                     Producte                                     |                         Imatge                        |   Preu   |                            Especificacions                           |
 |:-----:|:-------------------:|:--------------------------------------------------------------------------------:|:-----------------------------------------------------:|:--------:|:--------------------------------------------------------------------:|
