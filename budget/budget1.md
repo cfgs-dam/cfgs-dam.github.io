@@ -4,6 +4,8 @@
 
 <div class="statement">
  
+HOLA!!!!!
+ 
 ## **Enunciat**
 
 La configuració de l'ordinador de sobretaula d'un arquitecte ha de complir les següents especificacions:
