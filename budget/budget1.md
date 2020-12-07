@@ -8,19 +8,19 @@
 
 
 ### **1.1 Elements de l'ordinador**
-| **IMATGE**                                     |  **ELEMENT**                                                        |    **PREU**  |
-|:----------------------------------------------:|:-------------------------------------------------------------------:|--------------|
-|![i7](img/budget1/i7.jpg)                       |Processador [Intel Core i7-10700K 3.80 GHz][i7]                      | 369,90€      |
-|![placa base](img/budget1/placa-base.jpg)       |Placa base [Asus PRIME B365-PLUS][placa]                             | 169,90€      |
-|![Memoria ram](img/budget1/ram.jpg)             |Memoria Ram [GoodRam IRMD X DDR4 3000MHz 2x8GB CL16][Ram]            |  72,00€      |
-|![Ventilador cpu](img/budget1/cooler-Master.jpg)|Ventilador CPU [Cooler Master Hyper 212 Black Edition][cooler]       |  34,98€      |
-|![Disc dur HDD](img/budget1/disco-HDD.jpg)      |Disc dur HDD [Seagate BarraCuda 3.5" 1TB SATA3][HDD]                 |  35,95€      |
-|![Disc dur SSD](img/budget1/disco-ssd.jpg)      |Disc dur SSD [Samsung 860 EVO Basic SSD 250GB SATA3][SSD]            |  45,99€      |
-|![Torre](img/budget1/torre.jpg)                 |Torre [Tempest ATX CASE RGB Phantom USB 3.0][Torre]                  |  29,95€      |
-|![Font](img/budget1/fuente-alimenetacion.jpg)   |Font d'alimentacio [NOX Hummer Alpha 500W 80 Plus Bronce][Font]      |  47,00€      |
-|![GPU](img/budget1/GPU.jpg)                     |Targeta grafica [Zotac Gaming GTX 1660 SUPER Twin Fan 6GB GDDR6][GPU]| 239,89€      |
-|                                                |                                                                     |              |
-|        TOTAL                            :      |                                                                     | 1045,56€     |
+| **IMATGE**                                       |    **ELEMENT**                                                        |    **PREU**  |
+|:------------------------------------------------:|:---------------------------------------------------------------------:|--------------|
+| ![i7](img/budget1/i7.jpg)                        | Processador [Intel Core i7-10700K 3.80 GHz][i7]                       | 369,90€      |
+| ![placa base](img/budget1/placa-base.jpg)        | Placa base [Asus PRIME B365-PLUS][placa]                              | 169,90€      |
+| ![Memoria ram](img/budget1/ram.jpg)              | Memoria Ram [GoodRam IRMD X DDR4 3000MHz 2x8GB CL16][Ram]             |  72,00€      |
+| ![Ventilador cpu](img/budget1/cooler-Master.jpg) | Ventilador CPU [Cooler Master Hyper 212 Black Edition][cooler]        |  34,98€      |
+| ![Disc dur HDD](img/budget1/disco-HDD.jpg)       | Disc dur HDD [Seagate BarraCuda 3.5" 1TB SATA3][HDD]                  |  35,95€      |
+| ![Disc dur SSD](img/budget1/disco-ssd.jpg)       | Disc dur SSD [Samsung 860 EVO Basic SSD 250GB SATA3][SSD]             |  45,99€      |
+| ![Torre](img/budget1/torre.jpg)                  | Torre [Tempest ATX CASE RGB Phantom USB 3.0][Torre]                   |  29,95€      |
+| ![Font](img/budget1/fuente-alimenetacion.jpg)    | Font d'alimentacio [NOX Hummer Alpha 500W 80 Plus Bronce][Font]       |  47,00€      |
+| ![GPU](img/budget1/GPU.jpg)                      | Targeta grafica [Zotac Gaming GTX 1660 SUPER Twin Fan 6GB GDDR6][GPU] | 239,89€      |
+|                                                  |                                                                       |              |
+|         TOTAL                            :       |                                                                       | 1045,56€     |
 
 
 <br/>
